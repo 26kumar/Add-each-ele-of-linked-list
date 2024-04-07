@@ -1,4 +1,4 @@
-# Add-each-element-of-linked-list
+# Different addition in linked-list
 ## In this ques we have to take the element of both linked list as a single number, add them and disp it in another linked list in seperate digit, taking cake of carry(if any).
 ### for ex:-
 ### list1 is 4->3->2->1
